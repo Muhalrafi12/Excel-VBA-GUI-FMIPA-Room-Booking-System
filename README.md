@@ -1,6 +1,6 @@
 # Excel VBA GUI Automation Project
 
-![Demo](Demo/fmipa.gif)
+![Demo](fmipa.gif)
 
 ## 📌 Overview
 This project is an Excel-based GUI application built using **VBA (Visual Basic for Applications)**.  
