@@ -1,6 +1,6 @@
 # Excel VBA GUI Automation Project
 
-![Demo](https://raw.githubusercontent.com/USERNAME/REPO/main/Demo/FmipaGUI.gif)
+![Demo](https://github.com/Muhalrafi12/Excel-VBA-GUI-FMIPA-Room-Booking-System/blob/main/FmipaGUI.gif)
 
 ## 📌 Overview
 This project is an Excel-based GUI application built using **VBA (Visual Basic for Applications)**.  
